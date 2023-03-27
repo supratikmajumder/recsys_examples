@@ -4,7 +4,7 @@
 # external requirements
 pandas
 numpy
-sklearn
+scikit-learn
 keras
 matplotlib
 click
